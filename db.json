@@ -1,20 +1,46 @@
 {
   "products": [
-    { "id": 1, "name": "Post 1", "imageUrl": "url", "count": 2, "size": {
-      "width": 200,
-      "height": 200
-    },
+    { "id": 1, 
+      "name": "Prod 1", 
+      "imageUrl": "url", 
+      "count": 2, 
+      "size": {
+        "width": 200,
+        "height": 200
+      },
     "weight": "200g",
     "comments": [
-      { "id": 1, "description": "some comment", "productId": 1, "date": null },
-      { "id": 2, "description": "some comment", "productId": 1, "date": null }
+      "coments",
+      "coments"
     ]
     },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 2, 
+      "name": "Prod 2", 
+      "imageUrl": "url", 
+      "count": 4, 
+      "size": {
+        "width": 250,
+        "height": 100
+      },
+    "weight": "220g",
+    "comments": [
+      "coments",
+      "coments"
+    ]
+    },
+    { "id": 3, 
+      "name": "Prod 3", 
+      "imageUrl": "url", 
+      "count": 10, 
+      "size": {
+        "width": 2020,
+        "height": 2200
+      },
+    "weight": "2050g",
+    "comments": [
+      "coments",
+      "coments"
+    ]
+    }
   ]
 }
